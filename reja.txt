@@ -1,0 +1,7 @@
+#1 - 3 ta 
+    1 - tugma rasm orqa fonini o'chirish va rams qo'yish
+    2 - orqa fonni o'chirib rang berad
+    3 - orqa fonni o'chirish faly 
+
+#2 tekshirish, rasm yuborganligini tekshirish. matn xato
+#3 
